@@ -1,7 +1,12 @@
+// Write Your Name Here
+
 import java.util.Scanner;
 
 public class PalindromeChecker {
     public static boolean isPalindrome(String str) {
+        // Write your code below
+        // ...
+        
         // Remove punctuation and convert to lowercase
         
 
