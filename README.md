@@ -8,7 +8,7 @@
 
 
 #### Instructions:
-- This assignment is worth ```100``` points and due in two weeks.
+- This assignment is worth ```100``` points and is due in two weeks.
 - You must follow the university student guidelines and honor code.
 - Questions are posted in ```HW2.md``` file.
-- Submission must be made on ```GitHub```.
+- Submissions must be made on ```GitHub```.
